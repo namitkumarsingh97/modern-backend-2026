@@ -27,7 +27,7 @@ Learn more: Node.js remains one of the most popular backend tech choices. [Offic
 - Best suited for APIs, ML/AI integration, data workflows
 - Django (full featured) and FastAPI (high performance) dominate
 
-Use cases: REST/GraphQL APIs, data apps, AI-powered backends :contentReference[oaicite:2]{index=2}
+Use cases: REST/GraphQL APIs, data apps, AI-powered backends. [Learn more](https://fastapi.tiangolo.com/) 
 
 ---
 
