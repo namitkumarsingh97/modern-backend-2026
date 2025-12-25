@@ -1,5 +1,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/namitkumarsingh97/modern-backend-2026?style=flat)
 ![GitHub license](https://img.shields.io/github/license/namitkumarsingh97/modern-backend-2026)
+![GitHub last commit](https://img.shields.io/github/last-commit/namitkumarsingh97/modern-backend-2026)
+![GitHub issues](https://img.shields.io/github/issues/namitkumarsingh97/modern-backend-2026)
 
 # 🚀 2026 Back-End Tech Stack – Complete Developer Guide
 
