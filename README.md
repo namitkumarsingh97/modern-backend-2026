@@ -36,7 +36,7 @@ Use cases: REST/GraphQL APIs, data apps, AI-powered backends. [Learn more](https
 - Spring Boot simplifies building scalable services
 - Kotlin increasingly used for concise backend apps
 
-Use cases: Enterprise APIs, finance, logistics :contentReference[oaicite:3]{index=3}
+Use cases: Enterprise APIs, finance, logistics. [Learn more](https://spring.io/projects/spring-boot)
 
 ---
 
