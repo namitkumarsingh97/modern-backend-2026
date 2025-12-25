@@ -1,3 +1,6 @@
+![GitHub stars](https://img.shields.io/github/stars/namitkumarsingh97/modern-backend-2026?style=flat)
+![GitHub license](https://img.shields.io/github/license/namitkumarsingh97/modern-backend-2026)
+
 # 🚀 2026 Back-End Tech Stack – Complete Developer Guide
 
 Backend development in 2026 is about **performance, scalability, developer productivity, security, and real-world production reliability**.  
