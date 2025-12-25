@@ -1,10 +1,10 @@
+![Backend Architecture](https://acropolium.com/img/articles/modern-web-app-architecture/img10.jpg)
+*A visual overview of the modern backend ecosystem for 2026.*
+
 ![GitHub stars](https://img.shields.io/github/stars/namitkumarsingh97/modern-backend-2026?style=flat)
 ![GitHub license](https://img.shields.io/github/license/namitkumarsingh97/modern-backend-2026)
 ![GitHub last commit](https://img.shields.io/github/last-commit/namitkumarsingh97/modern-backend-2026)
 ![GitHub issues](https://img.shields.io/github/issues/namitkumarsingh97/modern-backend-2026)
-
-![Backend Architecture](https://acropolium.com/img/articles/modern-web-app-architecture/img10.jpg)
-*A visual overview of the modern backend ecosystem for 2026.*
 
 # 🚀 2026 Back-End Tech Stack – Complete Developer Guide
 
