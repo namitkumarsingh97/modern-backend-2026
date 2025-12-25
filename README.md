@@ -18,7 +18,7 @@ This README covers the most widely used languages, frameworks, architectural pat
 - Bun emerging as a faster runtime alternative with built-in tooling
 
 Use cases: APIs, real-time apps, microservices  
-Learn more: Node.js remains one of the most popular backend tech choices. :contentReference[oaicite:1]{index=1}
+Learn more: Node.js remains one of the most popular backend tech choices. [Official Node.js site](https://nodejs.org/)
 
 ---
 
